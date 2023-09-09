@@ -2,3 +2,7 @@ git init -> to initlizse your project
 ls -al ->
 git status -> track the status our git files 
 git add Git Commands.pdf -> adding a file into git
+git commit -m "first commit" gitnotes.txt -> -m means giving comment for commit
+git config --global user.email "itsradhakrishnarawat@gmail.com"
+git config --global user.name "Radhakrishna Rawat"
+
