@@ -1,0 +1,4 @@
+git init -> to initlizse your project 
+ls -al ->
+git status -> track the status our git files 
+git add Git Commands.pdf -> adding a file into git
